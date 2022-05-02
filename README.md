@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Dylan.
+🔭 I’m currently learning:
+1. Interesting visualisations of data
+2. Full-stack web development
+3. Working on DSA problems
 
 <!--
 **dsja612/dsja612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
