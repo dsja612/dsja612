@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Dylan.
+### Hi there 👋 I'm Dylan
 🔭 I’m currently learning/working on:
 1. Interesting visualisations of data
 2. Full-stack web development
