@@ -1,6 +1,3 @@
-
-
-### GIF  
 <div align="center">
 <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" align="center" height="" width="100" />
 </div>  
