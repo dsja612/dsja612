@@ -46,7 +46,17 @@
 
 ## Github Stats  
 
-![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsja612&show_icons=true&theme=apprentice)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dsja612&theme=dark)](https://git.io/streak-stats)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dsja612&show_icons=true&theme=apprentice" align="center" />
+</div>  
+
+<br />
+  
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dsja612&theme=dark" align="center" />
+</div>  
+
+<br />
   
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsja612&layout=compact" align="center" />
