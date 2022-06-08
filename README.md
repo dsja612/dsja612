@@ -54,8 +54,7 @@
 </div>  
 
 <br />
-
-<div align="center">
+  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -136,18 +135,3 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
  Last Updated on 08/06/2022 13:36:26 UTC
 <!--END_SECTION:waka-->
-</div>  
-
-<br />
-  
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsja612&layout=compact" align="center" />
-</div>  
-
-<br />
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=dsja612&&style=flat-square" align="center" />
-</div>  
-
-<br />
