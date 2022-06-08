@@ -56,12 +56,6 @@
 <br />
   
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=dsja612" align="center" />
-</div>  
-
-<br />
-  
-<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsja612&layout=compact" align="center" />
 </div>  
 
