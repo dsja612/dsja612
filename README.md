@@ -62,7 +62,7 @@
 
 > 🏆 77 Contributions in the Year 2022
  > 
-> 📦 228 Bytes Used in GitHub's Storage 
+> 📦 230 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,16 +99,16 @@ Sunday       5 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 54 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 54 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+node-course              1 hr 54 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 54 mins        █████████████████████████   100.0%
 
 ```
 
@@ -123,5 +123,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/06/2022 18:54:56 UTC
+ Last Updated on 30/06/2022 18:53:17 UTC
 <!--END_SECTION:waka-->
