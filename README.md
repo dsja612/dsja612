@@ -4,7 +4,7 @@
   
 
 ### <div align="center">I'm Dylan, a Computer Science undergraduate from NUS.</div>  
-  
+#### <div align="center">My interests lies in data-related domains and database systems.</div>  
 
 <br/>  
 
